@@ -1,4 +1,4 @@
-echo"this my script"
+echo "this my script"
 date
 cal 
-echo"bye"
+echo "bye"
